@@ -14,12 +14,12 @@ A passionate full-stack developer with a knack for coding, automation, and cloud
 
 ---
 
-### 🧩 Key Projects
+<!--### 🧩 Key Projects
 Here are a few of my favourite projects:
 
 - [**Project Name 1**](URL): A brief description of what this project does, how it works, and the technologies used.
 - [**Project Name 2**](URL): Describe this project and the tech stack, maybe even include a screenshot or example.
-- [**Project Name 3**](URL): If you've automated processes or developed an interesting app, this is the place to show it off!
+- [**Project Name 3**](URL): If you've automated processes or developed an interesting app, this is the place to show it off! -->
 
 ---
 
@@ -36,7 +36,7 @@ Here are a few of my favourite projects:
 
 ---
 
-- ### 🎯 A Few Fun Facts
-- In my spare time, I enjoy [add hobbies, like hiking, photography, etc.], and I’m always up for learning something new or collaborating on open-source projects!
+<!-- ### 🎯 A Few Fun Facts
+- In my spare time, I enjoy [add hobbies, like hiking, photography, etc.], and I’m always up for learning something new or collaborating on open-source projects! -->
 
 Thank you for visiting my profile! Feel free to check out my repositories and reach out if you’d like to collaborate.
