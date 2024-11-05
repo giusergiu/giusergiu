@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Giuseppe Serra
 
 ### 💻 Developer | Tech Enthusiast | Cloud Learner
-I'm [Your Name], a passionate full-stack developer with a knack for coding, automation, and cloud technology. Currently pursuing my AWS Developer Associate certification, I love building scalable and efficient solutions that make a difference.
+A passionate full-stack developer with a knack for coding, automation, and cloud technology. Currently pursuing my AWS Developer Associate certification, I love building scalable and efficient solutions that make a difference.
 
 ---
 
@@ -31,12 +31,12 @@ Here are a few of my favourite projects:
 ---
 
 ### 🤝 Connect with Me
-- **LinkedIn**: [Your LinkedIn](URL)
-- **Email**: youremail@example.com
+- **LinkedIn**: [giuseppeserra87](https://www.linkedin.com/in/giuseppeserra87/)
+- **Email**: giusergiu@gmail.com
 
 ---
 
-### 🎯 A Few Fun Facts
-In my spare time, I enjoy [add hobbies, like hiking, photography, etc.], and I’m always up for learning something new or collaborating on open-source projects!
+- ### 🎯 A Few Fun Facts
+- In my spare time, I enjoy [add hobbies, like hiking, photography, etc.], and I’m always up for learning something new or collaborating on open-source projects!
 
 Thank you for visiting my profile! Feel free to check out my repositories and reach out if you’d like to collaborate.
