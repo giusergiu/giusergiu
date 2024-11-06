@@ -37,6 +37,6 @@ Here are a few of my favourite projects:
 ---
 
 <!-- ### 🎯 A Few Fun Facts
-- In my spare time, I enjoy [add hobbies, like hiking, photography, etc.], and I’m always up for learning something new or collaborating on open-source projects! -->
+- In my spare time, I enjoy [add hobbies, like hiking, photography, etc.], and I’m always up for learning something new or collaborating on open-source projects! 
 
-Thank you for visiting my profile! Feel free to check out my repositories and reach out if you’d like to collaborate.
+Thank you for visiting my profile! Feel free to check out my repositories and reach out if you’d like to collaborate. -->
