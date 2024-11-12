@@ -1,7 +1,6 @@
-## 👋 Hi there! I'm Giuseppe Serra
+## 👋 Hi there! I'm Giuseppe 
 
-### 💻 Developer | Tech Enthusiast | Cloud Learner
-A passionate full-stack developer with a knack for coding, automation, and cloud technology. Currently pursuing my AWS Developer Associate certification, I love building scalable and efficient solutions that make a difference.
+Full-stack developer with a knack for coding, automation, and cloud technology. Currently pursuing my AWS Developer Associate certification.
 
 ---
 
